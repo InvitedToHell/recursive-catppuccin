@@ -11,5 +11,5 @@
 @import url("https://catppuccin.github.io/discord/dist/catppuccin-mocha-mauve.theme.css");
 
 ::placeholder, body, button, input, select, textarea {
-    font-family: "Recursive Monospace Casual";
+    font-family: "Recursive Mono Casual";
 }
