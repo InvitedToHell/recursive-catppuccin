@@ -8,8 +8,8 @@
  * @invite r6Mdz5dpFc
  * **/
 
-@import url("https://catppuccin.github.io/discord/dist/catppuccin-mocha-yellow.theme.css");
+@import url("https://catppuccin.github.io/discord/dist/catppuccin-mocha-mauve.theme.css");
 
 ::placeholder, body, button, input, select, textarea {
-    font-family: "Recursive Sans Linear Static";
+    font-family: "Recursive Sans Regular Static";
 }
